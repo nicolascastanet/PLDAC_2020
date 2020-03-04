@@ -1,2 +1,2 @@
 # PLDAC_2020
-Bird song detection
+Bird song detection with neural networks
